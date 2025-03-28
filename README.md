@@ -9,7 +9,7 @@ A curated list of awesome reinforcement learning resources in the context of LLM
 * [An Unexpected RL Renaissance](https://www.interconnects.ai/p/an-unexpected-rl-renaissance?utm_source=podcast-email&publication_id=48206&post_id=156830514&utm_campaign=email-play-on-substack&utm_content=watch_now_button&r=f1hbc&triedRedirect=true&utm_medium=email)
 * [simplerl-reason](https://hkust-nlp.notion.site/simplerl-reason)
 * [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)
-* [Search-o1 paper](https://cdn.openai.com/deep-research-system-card.pdf)
+* [OpenAI's Deep Research System Card](https://cdn.openai.com/deep-research-system-card.pdf)
 * [R-star Math](https://arxiv.org/abs/2501.04519)
 * [LIMR](https://arxiv.org/abs/2502.11886)
 * [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://arxiv.org/abs/2502.18449)
@@ -21,7 +21,9 @@ A curated list of awesome reinforcement learning resources in the context of LLM
 * [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs](https://arxiv.org/abs/2402.14740)
 
 * [RAGEN: Training Agents by Reinforcing Reasoning](https://github.com/ZihanWang314/RAGEN?tab=readme-ov-file)
-![RAGEN](https://github.com/ZihanWang314/RAGEN/blob/main/public/ragen.png?raw=true)
+* [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://arxiv.org/abs/2502.08235)
+* [🐱 KodCode: A Diverse, Challenging, and Verifiable Synthetic Dataset for Coding](https://github.com/KodCode-AI/kodcode/tree/main?tab=readme-ov-file)
+
 
 * SimpleRL-reason
     * [GitHub](https://github.com/hkust-nlp/simpleRL-reason?tab=readme-ov-file)
@@ -61,3 +63,5 @@ A curated list of awesome reinforcement learning resources in the context of LLM
 * The classic book on RL: [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 * [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
+

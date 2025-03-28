@@ -1,0 +1,4 @@
+.venv
+summarizer/.venv/
+summarizer/__pycache__/
+summarizer/.cache/
