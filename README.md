@@ -23,11 +23,14 @@ A curated list of awesome reinforcement learning resources in the context of LLM
 * [RAGEN: Training Agents by Reinforcing Reasoning](https://github.com/ZihanWang314/RAGEN?tab=readme-ov-file)
 * [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://arxiv.org/abs/2502.08235)
 * [🐱 KodCode: A Diverse, Challenging, and Verifiable Synthetic Dataset for Coding](https://github.com/KodCode-AI/kodcode/tree/main?tab=readme-ov-file)
-
-
+* [Dr. GRPO](https://x.com/zzlccc/status/1903162768083259703)
+* [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476)
+* [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/pdf/2503.07572)
 * SimpleRL-reason
     * [GitHub](https://github.com/hkust-nlp/simpleRL-reason?tab=readme-ov-file)
     * [Notion](https://hkust-nlp.notion.site/simplerl-reason)
+* [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470)
+* [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/abs/2504.04736)
 
 ## 💼 Projects (blogs, repos, Twitter threads etc.)
 * [Train your own R1 reasoning model with Unsloth (GRPO)](https://unsloth.ai/blog/r1-reasoning)
@@ -48,7 +51,9 @@ A curated list of awesome reinforcement learning resources in the context of LLM
     * [GitHub repo](https://github.com/PeterGriffinJin/Search-R1)
 
 ## 📊 Datasets
+* [open-thoughts/OpenThoughts2-1M](https://huggingface.co/datasets/open-thoughts/OpenThoughts2-1M)
 * [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k)
+* [nvidia/OpenCodeReasoning](https://huggingface.co/datasets/nvidia/OpenCodeReasoning)
 * [open-r1/OpenR1-Math-220k](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
 * [GeneralReasoning/GeneralThought-195K](https://huggingface.co/datasets/GeneralReasoning/GeneralThought-195K)
 * [PrimeIntellect/SYNTHETIC-1](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-1)
